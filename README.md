@@ -5,11 +5,17 @@ In today's business world, data analysis plays a key role in making strategic de
 After this initial phase, we will advance to the second stage of the project, in which we will use the R language to carry out more in-depth statistical analyses. We will use ANOVA testing and Linear Regression to answer seven additional business questions. These statistical techniques will allow us to further explore the relationships between variables and gain a more accurate understanding of the factors that influence spending on hospital stays. With the combination of the analytical skills of the SQL language and the R language, this project aims to provide the hospital network with a comprehensive and detailed view of hospitalization expenses. It is expected that the results obtained will help optimize financial resources and improve the services provided, always aiming at the well-being of patients. By uniting these two powerful data analysis tools, this project aims to open new perspectives for making informed and evidence-based decisions. Exploratory data analysis using SQL and statistical analysis using the R language form a comprehensive and effective approach to understanding hospitalization costs.
 
 Data dictionary:
+
 AGE: Patient Age
+
 FEMALE: Binary variable that indicates that the patient is female
+
 LOS: Patient length of stay
+
 RACE: Patient's race
+
 TOTCHG: Cost of hospitalization
+
 APRDRG: Refined Patient Diagnosis Group
 
 Keywords: R Language, Data Analysis, SQL, Linear Regression, ANOVA, Finance Analaysis, Statistics Analysis, sqldf,
