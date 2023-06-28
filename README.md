@@ -17,6 +17,7 @@ Keywords: R Language, Data Analysis, SQL, Linear Regression, ANOVA, Finance Anal
 # ✅ PROCESS
 
 Business Questions .:. Exploratory Analysis .:. SQL Language
+
 How many races are represented in the dataset?
 What is the average age of patients?
 What is the age mode of the patients?
@@ -29,6 +30,7 @@ For patients over 10 years old, what is the average total expenditure on hospita
 Considering the previous item, which age has an average spending greater than 3000?
 
 Business Questions .:. Statistical Analysis .:. R Language
+
 What is the age distribution of patients attending the hospital?
 Which age group has the highest total hospital spending?
 Which diagnosis-based group (Aprdrg) has the highest total hospital spend?
