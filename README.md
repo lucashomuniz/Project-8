@@ -1,4 +1,24 @@
+# ✅ PROJECT-8
 
+In today's business world, data analysis plays a key role in making strategic decisions. To solve a specific business problem, this project proposes the union of two powerful data analysis tools: the SQL language and the R language. These tools will be used together to address an important issue related to expenses with hospitalization of patients. Through the "sqldf" package, we will use the SQL language to carry out an exploratory analysis of the data. Data used in this project were obtained from a national survey of hospital costs conducted by the US Agency for Healthcare. These data consist of hospital records of samples of patients hospitalized in the city of Wisconsin, being restricted to the age group of 0 to 17 years. The first step will be to explore the data using the SQL language, in order to answer ten relevant business questions for the hospital network. These questions will help us understand the variables related to spending on hospital stays and provide valuable insights for decision making.
+
+After this initial phase, we will advance to the second stage of the project, in which we will use the R language to carry out more in-depth statistical analyses. We will use ANOVA testing and Linear Regression to answer seven additional business questions. These statistical techniques will allow us to further explore the relationships between variables and gain a more accurate understanding of the factors that influence spending on hospital stays. With the combination of the analytical skills of the SQL language and the R language, this project aims to provide the hospital network with a comprehensive and detailed view of hospitalization expenses. It is expected that the results obtained will help optimize financial resources and improve the services provided, always aiming at the well-being of patients. By uniting these two powerful data analysis tools, this project aims to open new perspectives for making informed and evidence-based decisions. Exploratory data analysis using SQL and statistical analysis using the R language form a comprehensive and effective approach to understanding hospitalization costs.
+
+Data dictionary:
+
+AGE: Patient Age
+
+FEMALE: Binary variable that indicates that the patient is female
+
+LOS: Patient length of stay
+
+RACE: Patient's race
+
+TOTCHG: Cost of hospitalization
+
+APRDRG: Refined Patient Diagnosis Group
+
+Keywords: R Language, Data Analysis, SQL, Linear Regression, ANOVA, Finance Analaysis, Statistics Analysis, sqldf.
 
 # ✅ PROCESS
 
